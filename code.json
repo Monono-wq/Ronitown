@@ -1,8 +1,8 @@
 {
-  RONITOWN2025 {
-    name RONITOWN,
-    modpack_url ,
-    prism_profile RONITOWN,
-    server_ip tu.server.ip
+  "RONITOWN2025": {
+    "name": "RONITOWN",
+    "modpack_url": "https://github.com/Monono-wq/Ronitown/releases/download/V1/Ronitown.zip",
+    "prism_profile": "RONITOWN",
+    "server_ip": ""
   }
 }
