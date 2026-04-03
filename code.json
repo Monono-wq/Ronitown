@@ -1,0 +1,8 @@
+{
+  RONITOWN2025 {
+    name RONITOWN,
+    modpack_url ,
+    prism_profile RONITOWN,
+    server_ip tu.server.ip
+  }
+}
