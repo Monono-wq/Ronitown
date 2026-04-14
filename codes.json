@@ -1,8 +1,14 @@
 {
   "RONITOWN2025": {
     "name": "RONITOWN",
+    "description": "Servidor privado de Ronitown",
+    "version": "1.0.0",
+    "mc_version": "1.20.1",
+    "modloader": "forge",
+    "modloader_version": "47.4.10",
     "modpack_url": "https://github.com/Monono-wq/Ronitown/releases/download/V1/Ronitown.zip",
-    "prism_profile": "RONITOWN",
-    "server_ip": ""
+    "server_ip": "",
+    "icon_url": "",
+    "banner_url": ""
   }
 }
